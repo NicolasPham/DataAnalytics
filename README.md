@@ -18,5 +18,10 @@
   > Data cleaning
   > Data preprocessing
   > Data visualization and analysis
+  
+ - Jupyter Shortcuts: "H" - open the keyboard shortcuts
+
 ```
 </details>
+
+
