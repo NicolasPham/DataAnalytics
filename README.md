@@ -13,5 +13,10 @@
     > Analysis: past performance
     > Analytics: future performance
     
+- What does a data analyst do?
+  > Data gathering / data collection
+  > Data cleaning
+  > Data preprocessing
+  > Data visualization and analysis
 ```
 </details>
