@@ -24,4 +24,35 @@
 ```
 </details>
 
+### Basic Python
+<details>
+
+```python
+- List:
+  > List.append(value): add a value into a list
+  > List.extend([value1, value2]): add value1 and value2 into a list
+  > del List[index]: delete a value at index
+  > List[1:3] : slice elements 1 and 2 from a list
+  > List.index(value): find the index of a value in a list
+  > List.sort(reverse = True): sort the list in reverse order
+  
+- Loops:
+  > for n in list_name:
+    print(n, end = " ")
+    # print a list horrizontally
+  
+  > x = 0
+  > while x <= 20:
+    print(x)
+    x += 2 #incrementing x
+    
+  > for item in x:
+    print (item, end = " ")
+    
+  > for n in range(len(x)):
+    print (x[n], end = " ")
+  
+```
+</details>
+
 
