@@ -51,6 +51,15 @@
     
   > for n in range(len(x)):
     print (x[n], end = " ")
+    
+- Imoprt modules:
+  > Option 1:
+    >> import math
+    >> math.sqrt()
+  > Option 2:
+    >> from math import sqrt
+    >> sqrt(25)
+  > 
   
 ```
 </details>
