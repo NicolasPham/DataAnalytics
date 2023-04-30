@@ -59,7 +59,17 @@
   > Option 2:
     >> from math import sqrt
     >> sqrt(25)
-  > 
+  > Option 3:
+    >> from math import sqrt as s
+    >> s(36)
+  > Option 4:
+    >> import math as m
+    >> m.sqrt(49)
+  > Option 5:
+    >> from math import *
+    >> sqrt(49)
+  
+  
   
 ```
 </details>
