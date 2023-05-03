@@ -69,9 +69,14 @@
     >> from math import *
     >> sqrt(49)
   
-  
-  
 ```
 </details>
 
+### Pandas
+<details>
 
+```python
+
+
+```
+</details>
