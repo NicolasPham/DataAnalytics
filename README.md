@@ -76,7 +76,21 @@
 <details>
 
 ```python
+- import text file into python:
+  > fileName = "source.txt"
+  > file = open(fileName, mode='r')
+  > fileContent = file.read() #read only once, so better to save it into variable fileContent
+  > print(fileContent)
+  
+  # We should always close the connection to avoid any risk of being hacked
+  > file.closed # True / False - check the status of open connection
+  > file.close() # close the connection
 
+- Professional way to open a file:
+  > with open(fileName, mode='r') as file:
+      fileContent = file.read() # the file will be closed automatically
+      file.write("new content")
+  > print(fileContent)
 
 ```
 </details>
