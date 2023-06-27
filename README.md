@@ -21,6 +21,12 @@
   
  - Jupyter Shortcuts: "H" - open the keyboard shortcuts
 
+- Types of Analysis:
+  > Descriptive Analytics: What happened?
+  > Diagnostic Analytics: Why did it happen?
+  > Predictive Analytics: what will happen?
+  > Prescriptive Analytics: How can we make it happen?
+
 ```
 </details>
 
