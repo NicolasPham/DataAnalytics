@@ -2,19 +2,19 @@
 <details>
 
 ``` javascript
-- Business: related to financial aspect of that activity
+- Business: related to the financial aspect of that activity
   - Data: 
     > Qualitative: contains no number
-      >> comes in the formn of text and is descriptive in nature
-      >> ex: business feedbacks, a business case study
-    > Quantitative: numberic data
-      >> quantifiable information that can be involved in statistical and mathematical computations
+      >> comes in the form of text and is descriptive in nature
+      >> ex: business feedback, a business case study
+    > Quantitative: numeric data
+      >> Quantifiable information that can be involved in statistical and mathematical computations
       
     > Analysis: past performance
     > Analytics: future performance
     
 - What does a data analyst do?
-  > Data gathering / data collection
+  > Data gathering/data collection
   > Data cleaning
   > Data preprocessing
   > Data visualization and analysis
@@ -26,6 +26,15 @@
   > Diagnostic Analytics: Why did it happen?
   > Predictive Analytics: what will happen?
   > Prescriptive Analytics: How can we make it happen?
+
+- A/B Testing
+  > What?: experimentation technique, used to understand the effects of [potential] change to a company's products
+  > Why?
+    >> You already have a functioning product and are worried about the change
+    >> You need to quantify the impacts (ie. you need to know how much the impact is)
+  > Requirement:
+    >> Infrastructure
+    >> Statistical testing and experimental testing
 
 ```
 </details>
